@@ -34,12 +34,8 @@ Most multimodal models scale quadratic attention over longer contexts. KAIROS ta
 | Decoder | S2FT byte-level reasoning decoder (vocab 258) |
 | Scale | ~4.0B total parameters, ~1.4B active per forward pass |
 
-<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/db160bbf-d594-4ea0-9e9e-37017f105854" />
-<img width="1536" height="1024" alt="encoders" src="https://github.com/user-attachments/assets/89c6970a-6484-4be7-b3d8-cd2d11de70cd" />
-<img width="1536" height="1024" alt="fusion" src="https://github.com/user-attachments/assets/2b3cc252-74f3-400b-b84a-527348caa90c" />
-<img width="1536" height="1024" alt="hybrid-core" src="https://github.com/user-attachments/assets/b8d8cbf4-9412-4c56-9ed8-52795290f2e8" />
-<img width="1536" height="1024" alt="outputs" src="https://github.com/user-attachments/assets/d035d225-be72-4018-88dc-e5d027645bf2" />
 
+<img width="2580" height="3330" alt="kairos_architecture_v2" src="https://github.com/user-attachments/assets/f766e1e0-9493-429c-a3ad-b1b40e862cd2" />
 
 
 
